@@ -1,4 +1,4 @@
-                                      # Ludo game with Sumit #
+                                      # Ludo game with Abhijeet #
 from tkinter import *
 from tkinter import messagebox
 from PIL import Image,ImageTk
